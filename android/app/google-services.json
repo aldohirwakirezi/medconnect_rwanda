@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723968596754",
+    "project_id": "medconnect-rwanda-f85ea",
+    "storage_bucket": "medconnect-rwanda-f85ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723968596754:android:4b96358a8e09de9352f1cb",
+        "android_client_info": {
+          "package_name": "com.example.medconnect_rwanda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeIYBOmO5OKM1bsNmSdiO2FqCF8yCAL1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
